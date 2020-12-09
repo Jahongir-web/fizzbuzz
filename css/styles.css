@@ -1,0 +1,46 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+
+.convertation {
+  padding-top: 200px;
+  max-width: 800px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.number {
+  padding: 5px 10px;
+  margin-right: 15px;
+
+}
+
+.result {
+  margin-top: 50px;
+
+  margin-left: 15px;
+  padding: 5px 10px;
+}
+
+.btn {
+  display: block;
+  margin-top: 100px;
+  background-color: transparent;
+  color: green;
+  border: 2px solid green;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
